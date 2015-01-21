@@ -1,0 +1,130 @@
+.heading {
+  font-family: 'Pacifico';
+  color: #f7f7f0;
+  background-color: #333333;
+  font-size: 1.3em; }
+  .heading div {
+    height: 50px; }
+  .heading .text-box {
+    padding: .75em 0 .0em 2em; }
+
+.links {
+  background-color: #f7f7f0;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.3em;
+  font-weight: 5000; }
+  .links div {
+    display: inline-block;
+    text-align: center;
+    padding: .75em 0 .65em 0;
+    width: 24.84%;
+    border-bottom: solid 1px #d5d5d5;
+    border-right: solid 1px #d5d5d5; }
+  .links #icons {
+    border-right: solid 0 #d5d5d5;
+    padding-top: 0;
+    padding-bottom: .63em; }
+  .links #icons a {
+    width: 1.5em; }
+  .links #icons img {
+    margin-top: .5em;
+    margin-bottom: -.3em;
+    background-color: #333333;
+    line-height: 1.5em;
+    width: 100%; }
+  .links a {
+    text-decoration: none;
+    display: inline-block;
+    color: #333333; }
+
+.intro {
+  font-family: 'Lato', sans-serif;
+  border-bottom: solid 4px #e6e6e6; }
+  .intro .intro-box {
+    margin: 2em 2em 2.4em 2em;
+    text-align: center; }
+  .intro .intro-pic {
+    margin-bottom: 1.5em; }
+  .intro .intro-pic img {
+    display: block;
+    width: 100%; }
+  .intro h1 {
+    font-size: 2em;
+    font-weight: 100;
+    margin-bottom: .5em; }
+  .intro .the-line {
+    margin: 0 auto;
+    width: 64px;
+    margin-bottom: solid 4px #333333; }
+  .intro h2 {
+    color: #808080;
+    font-size: 1.5em;
+    font-style: italic;
+    margin: 1.8em 0 .7em 0; }
+  .intro p {
+    line-height: 1.45em;
+    font-size: .9em;
+    font-weight: 200; }
+
+.last-section {
+  background-color: #f7f7f7;
+  font-family: 'Lato', sans-serif; }
+  .last-section .last-work {
+    padding-bottom: .1em; }
+  .last-section .last-banner {
+    text-align: center;
+    margin: 0 .7em;
+    border-bottom: solid 1px #e6e6e6;
+    padding-bottom: 1em; }
+  .last-section .last-banner h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 2.8em;
+    padding-top: .7em; }
+  .last-section .last-banner a {
+    text-decoration: none;
+    color: #838383;
+    font-size: 1.2em;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-right: .7em; }
+  .last-section .last-boxes {
+    margin: 1.2em .5em; }
+  .last-section .last-pic {
+    background-color: #cccccc; }
+  .last-section .last-pic img {
+    width: 100%;
+    display: block; }
+  .last-section .last-desc {
+    background-color: #ffffff; }
+  .last-section .last-desc div {
+    margin: 0 .5em;
+    padding: .5em 0 .7em 0;
+    border-bottom: solid 1px #eeeeee; }
+  .last-section .last-cat {
+    background-color: #ffffff; }
+  .last-section .last-desc h1 {
+    font-size: 1.1em;
+    font-weight: 900;
+    padding-bottom: .2em; }
+  .last-section .last-desc h2 {
+    color: #808083;
+    font-size: .9em;
+    font-style: italic;
+    padding-bottom: 1em; }
+  .last-section .last-desc p {
+    font-size: .85em; }
+  .last-section .last-cat p {
+    font-size: .85em;
+    padding: 1em .5em;
+    color: #8b8b8b; }
+
+.arrow div {
+  margin: 0 auto;
+  padding: .9em 0;
+  width: 3.8em; }
+.arrow img {
+  display: block;
+  width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
